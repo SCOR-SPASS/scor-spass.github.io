@@ -9,21 +9,21 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Shiye Zhao / Homepage"
+title                    : "SPASS / SCOR WG"
 title_separator          : "-"
-name                     : &name "Shiye Zhao"
+name                     : &name "SPASS"
 description              : &description "personal description"
-url                      : https://shiyezhao.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://scor-spass.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shiyezhao/shiyezhao.github.io"
+repository               : "scor-spass/scor-spass.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Zhao1.png"
-  name             : "Shiye Zhao"
+  avatar           : "spass_logo.png"
+  name             : "SPASS"
   pronouns         : "He/Him/His"  
   bio              : "Environmental Oceanographer"
   location         : "Yokosuka, Japan"
@@ -32,7 +32,7 @@ author:
   email            : "szhao@jamstec.go.jp" 
 
   # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=2E3zsqQAAAAJ&hl=en"
+  SCOR    : "https://scor-int.org/"
   Researchmap      : #"https://researchmap.jp/szhao"
   researchgate     : # URL
 
