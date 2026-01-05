@@ -24,10 +24,10 @@ author:
   # Biographic information
   avatar           : "spass_logo.png"
   name             : "SPASS"
-  pronouns         : "He/Him/His"  
-  bio              : "Environmental Oceanographer"
-  location         : "Yokosuka, Japan"
-  employer         : "JAMSTEC"
+  pronouns         : #"He/Him/His"  
+  bio              : #"Environmental Oceanographer"
+  location         : #"Yokosuka, Japan"
+  employer         : #"JAMSTEC"
   uri              : # URL
   email            : "szhao@jamstec.go.jp" 
 
