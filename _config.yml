@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "SPASS / SCOR WG"
+title                    : "SCOR-SPASS"
 title_separator          : "-"
 name                     : &name "SPASS"
 description              : &description "personal description"
