@@ -45,9 +45,15 @@
    Custom overrides for SPASS site
    ========================================= */
 
-.author__avatar,
-.author__avatar img,
-.author__avatar a {
+.author__avatar {
+  max-width: 220px;   /* container size */
+}
+
+.author__avatar img {
+  width: 100%;
+  max-width: 220px;   /* actual logo size */
+  height: auto;
+
   border-radius: 0 !important;
   border: none !important;
   box-shadow: none !important;
