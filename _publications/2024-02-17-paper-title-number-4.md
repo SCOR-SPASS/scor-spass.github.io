@@ -3,8 +3,8 @@ title: ""
 collection: publications
 category: manuscripts
 permalink: /publication/2023-11-09-paper-title-number-1
-excerpt: "**......Coming Soon......**
-date: 2023-11-09
+excerpt: "**Coming Soon**
+date: 2026-01-06
 venue: ''
 ---
 
