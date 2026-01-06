@@ -19,7 +19,7 @@ redirect_from:
 </style>
 
 <div class="spass-about">
-  <img src="/images/SPASS.png" alt="SPASS logo" width="600">
+  <img src="/images/SPASS.png" alt="SPASS logo" width="400">
   <div class="spass-about-text">
     <a href="https://scor-int.org/group/174/">SPASS</a>
     (Small Plastics in the Ocean’s Interior: coherent Analysis and Synthesis for better Scrutiny)
