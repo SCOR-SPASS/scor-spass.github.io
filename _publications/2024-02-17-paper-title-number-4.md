@@ -3,7 +3,7 @@ title: ""
 collection: publications
 category: manuscripts
 permalink: /publication/2023-11-09-paper-title-number-1
-excerpt: "**Papers will be published and made available here.**"
+excerpt: "**Papers published will be made available here.**"
 date: 
 venue: ''
 ---
