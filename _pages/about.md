@@ -18,25 +18,13 @@ redirect_from:
 }
 </style>
 
-<img src="/images/SPASS.png" class="spass-float">
-
-<p>
 <a href="https://scor-int.org/group/174/">SPASS</a>
 (Small Plastics in the Ocean’s Interior: coherent Analysis and Synthesis for better Scrutiny)
 is established under the Scientific Committee on Oceanic Research
-<a href="https://scor-int.org/">(SCOR)</a> as the Working Group 174.
-</p>
-
-<p>
-SPASS tries to address critical gaps in understanding small plastics in the ocean interior
-by harmonizing methods for sampling, measurement, and data reporting of small plastics
-across the water column.
-</p>
-
-<p>
-The working group will develop better-practice standards, validate existing datasets,
-promote open data sharing, and strengthen international and regional research capacity.
-</p>
+<a href="https://scor-int.org/">(SCOR)</a> as the Working Group 174. SPASS tries to address critical gaps in understanding small plastics in the ocean interior by harmonizing methods for sampling, measurement, and data reporting of small plastics
+across the water column. The working group will develop better-practice standards, validate existing datasets,
+promote open data sharing, and strengthen international and regional research capacity.<br><br>
+<img src="/images/SPASS.png" class="spass-float" with="450">
 
 Chairs
 ======
