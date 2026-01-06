@@ -41,3 +41,16 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+/* =========================================
+   Custom overrides for SPASS site
+   ========================================= */
+
+.author__avatar,
+.author__avatar img,
+.author__avatar a {
+  border-radius: 0 !important;
+  border: none !important;
+  box-shadow: none !important;
+  background: none !important;
+  padding: 0 !important;
+}
