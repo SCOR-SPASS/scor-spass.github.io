@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2023-11-09-paper-title-number-1
 excerpt: "**Papers will be published and made available here.**"
-date: 2026-01-06
+date: 
 venue: ''
 ---
 
