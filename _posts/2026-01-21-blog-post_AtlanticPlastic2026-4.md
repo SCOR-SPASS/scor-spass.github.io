@@ -1,6 +1,6 @@
 ---
 title: " "
-date: 2026-01-06
+date: 2026-01-21
 permalink: /posts/2024/07/Shinkai6500/
 layout: single
 author_profile: false
