@@ -36,7 +36,7 @@ Giuseppe Suaria (Italy), Roswati Md Amin (Malaysia), Sara Purca (Peru), Clara Ma
 
 Associate Members
 ======
-Martin Thiel (USA), Anela Choy (USA), Helge Niemann (Netherlands), Seung-Kyu Kim (South Korea), Tristan Naidoo (South Africa), Mufti Petala Patria (Indonesia)
+Seung-Kyu Kim (South Korea), Tristan Naidoo (South Africa),  Anela Choy (USA), Helge Niemann (Netherlands), Phoebe Lam (USA), Cristina Romera Castillo (Spain) 
 
 
 
