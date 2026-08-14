@@ -3,7 +3,7 @@ title: ""
 collection: publications
 category: manuscripts
 permalink: /publication/2026-6-26-paper-title-number-1
-excerpt: "**Measuring Microplastics in Every Ocean Layer** <br>This is SPASS's 1st [paper](https://eos.org/features/measuring-microplastics-in-every-ocean-layer) provides a general view of Why and How we stuey subsurface microplastics.  <br/><img src='/images/EOS.png'>"
+excerpt: "**Measuring Microplastics in Every Ocean Layer** <br>This is SPASS's 1st [paper](https://eos.org/features/measuring-microplastics-in-every-ocean-layer) provides a general view of Why and How we study subsurface microplastics.  <br/><img src='/images/EOS.png'>"
 date: 2026-06-26
 venue: 'EOS'
 ---
