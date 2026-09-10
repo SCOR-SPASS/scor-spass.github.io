@@ -5,7 +5,7 @@ permalink: /posts/2024/07/Shinkai6500/
 layout: single
 author_profile: false
 ---
-**IMDOS Endorsement** <br> SPASS was officially endorsed by the Integrated Marine Debris Observing System (IMDOS) through the support of Dr. Giuseppe Suaria, who is a member of both IMDOS and SPASS. [IMDOS](https://imdos.org/mission) is a global coordination body launched to standardize marine debris monitoring and support the Global Plastics Treaty. It operates with official endorsement from the Global Ocean Observing System (GOOS) and the United Nations Environment Programme (UNEP) GPML. <br/><img src='/images/imdos.png'>  
+**UN Ocean Decade Endorsement** <br> SPASS Decade Action entitled "No.58.10. Small Plastics in the Ocean’s Interior." was officially endorsed. SPASS project will be attached to the UN Decade Programme “No. 189. Joint Exploration of the Twilight Zone Ocean Network ([JETZON](https://jetzon.org/)).”. <br/><img src='/images/Ocean_Decade.png'>  
 
 ## Headings are cool
 
